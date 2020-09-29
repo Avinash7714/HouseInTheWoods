@@ -1,0 +1,71 @@
+.sec5-text{
+	padding-top:100px;
+	
+}
+.sec5-row-button{
+	padding-bottom:50px;
+}
+.sec5-button1{
+	padding: 9px 20px;
+    cursor: pointer;
+    background-color:#fecb2f ;
+    border: 3px solid #fecb2f;
+    transition: all 0.3s ease;
+    color: #000;
+	font-size:17px;
+	font-weight:600;
+	font-family: 'Open Sans', sans-serif;
+	margin:10px;
+	
+}
+.sec5-button{
+	padding: 9px 20px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 3px solid #fecb2f;
+    transition: all 0.3s ease;
+    color: #000;
+	font-size:17px;
+	font-weight:600;
+	font-family: 'Open Sans', sans-serif;
+	margin:10px;
+
+}
+.sec5-button:hover{
+	background-color:#fecb2f;
+}
+.sec5-text h2{
+	line-height:0.9;
+	font-size:45px;
+	font-weight:700;
+	
+}
+.sec5-p{
+	word-spacing:1px;
+
+}
+.sec5-row-button a{
+	color:black;
+}
+.sec5-img{
+	width:100%;
+
+	margin:0px;
+	background-size:cover;
+    
+	
+}
+.sec5-row{
+	position:relative;
+	background-size:cover;
+	width:300px;
+
+}
+.fafa{
+	display:none;
+	position:absolute;
+}
+
+.sec5-row:hover .fafa{
+	top:50;
+}	

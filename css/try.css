@@ -1,0 +1,13 @@
+.nav-ul{
+	padding-left:250px;
+}
+.nav-ul li{
+	padding-left:20px;
+	font-weight:700;
+}
+.nav-a{
+	color:white;
+}
+.navbar-expand-lg{
+	background-color:black;
+}
